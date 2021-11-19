@@ -1,0 +1,14 @@
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\bin\Debug\netcoreapp3.1\EvenorOddChecker.exe
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\bin\Debug\netcoreapp3.1\EvenorOddChecker.deps.json
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\bin\Debug\netcoreapp3.1\EvenorOddChecker.runtimeconfig.json
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\bin\Debug\netcoreapp3.1\EvenorOddChecker.runtimeconfig.dev.json
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\bin\Debug\netcoreapp3.1\EvenorOddChecker.dll
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\bin\Debug\netcoreapp3.1\EvenorOddChecker.pdb
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\obj\Debug\netcoreapp3.1\EvenorOddChecker.csproj.AssemblyReference.cache
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\obj\Debug\netcoreapp3.1\EvenorOddChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\obj\Debug\netcoreapp3.1\EvenorOddChecker.AssemblyInfoInputs.cache
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\obj\Debug\netcoreapp3.1\EvenorOddChecker.AssemblyInfo.cs
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\obj\Debug\netcoreapp3.1\EvenorOddChecker.csproj.CoreCompileInputs.cache
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\obj\Debug\netcoreapp3.1\EvenorOddChecker.dll
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\obj\Debug\netcoreapp3.1\EvenorOddChecker.pdb
+C:\Users\Aieos_\Documents\code\EvenorOddChecker\EvenorOddChecker\obj\Debug\netcoreapp3.1\EvenorOddChecker.genruntimeconfig.cache
