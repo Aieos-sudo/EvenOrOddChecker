@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b65e41e-ba46-4de3-b7ac-bf5db92d56fe": {
+      "ProjectGuid": "0b65e41e-ba46-4de3-b7ac-bf5db92d56fe",
+      "DisplayName": "EvenorOddChecker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
